@@ -1,1 +1,3 @@
 # dvatsat
+
+Minimal shopify theme
