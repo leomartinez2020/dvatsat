@@ -1,10 +1,10 @@
 [
-    {
-        "name": "theme_info",
-        "theme_name": "Dvatsat",
-        "theme_version": "1.0.0",
-        "theme_author": "Leonardo",
-        "theme_documentation_url": "https://help.shopify.com/manual/online-store/themes",
-        "theme_support_url": "https://support.shopify.com/"
-    }
+  {
+    "name": "theme_info",
+    "theme_name": "Dvatsat",
+    "theme_version": "1.0.0",
+    "theme_author": "Leonardo",
+    "theme_documentation_url": "https:\/\/help.shopify.com\/manual\/online-store\/themes",
+    "theme_support_url": "https:\/\/support.shopify.com\/"
+  }
 ]

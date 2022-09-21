@@ -1,9 +1,9 @@
 {
-    "current": "Default",
-    "presets": {
-        "Default": {
-            "page_width": 1200,
-            "colors_text": "#121212"
-        }
+  "current": "Default",
+  "presets": {
+    "Default": {
+      "page_width": 1200,
+      "colors_text": "#121212"
     }
+  }
 }
