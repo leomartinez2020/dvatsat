@@ -1,3 +1,5 @@
-<div>
-    Header section 
+{{ 'header.css' | asset_url | stylesheet_tag }}
+
+<div class="main">
+    <h1>{{ shop.name }}</h1> 
 </div>
