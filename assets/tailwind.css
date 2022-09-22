@@ -560,6 +560,10 @@ video {
   display: flex;
 }
 
+.max-w-7xl {
+  max-width: 80rem;
+}
+
 .items-center {
   align-items: center;
 }
