@@ -3,14 +3,16 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "settings": {
-        "show_announcement": true,
-        "home_page_only": true,
-        "text": "View latest offers!",
-        "link": ""
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
       }
     }
   },
   "order": [
-    "announcement-bar"
+    "announcement-bar",
+    "header"
   ]
 }
