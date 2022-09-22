@@ -2,7 +2,7 @@
   {%- if section.settings.home_page_only == false or template.name == 'index' -%}
 
     {%- if section.settings.link == blank -%}
-      <div>
+      <div class="bg-blue-300 text-center">
     {%- else -%}
       <a href="{{ section.settings.link }}" >
     {%- endif -%}
