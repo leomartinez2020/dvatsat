@@ -1,5 +1,8 @@
 {
-  "current": "Default",
+  "current": {
+    "page_width": 1200,
+    "colors_text": "#121212"
+  },
   "presets": {
     "Default": {
       "page_width": 1200,
