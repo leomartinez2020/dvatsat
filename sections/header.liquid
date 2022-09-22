@@ -1,6 +1,6 @@
 <div class="bg-zinc-500">
     <h1 class="text-3xl font-bold text-white text-center">{{ shop.name | upcase }}</h1>
-    <nav class="flex items-center gap-x-5 mx-auto max-w-7xl">
+    <nav class="flex items-center gap-x-5 mx-auto px-4">
         {% for link in linklists.main-menu.links %}
             <a href="{{ link.url }}">{{ link.title }}</a>
         {% endfor %}
